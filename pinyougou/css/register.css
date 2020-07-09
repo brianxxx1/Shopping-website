@@ -1,0 +1,110 @@
+.w{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.header{
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+.logo{
+    padding-top: 18px;
+}
+.register_area {
+    height: 522px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.register_area h3{
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: #ececec;
+    line-height: 42px;
+    padding: 0 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.login{
+    float: right;
+    font-size: 14px;
+}
+.login a {
+    color: #c81523;
+}
+.reg_form{
+    width: 600px;
+
+    margin: 50px auto 0;
+}
+.register_area label{
+    width: 88px;
+    display: inline-block;
+    text-align: right;
+}
+.register_area ul li .inp{
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+}
+.register_area ul li{
+    margin-bottom: 20px;
+}
+.error{
+    color: #c81523;
+}
+.error_icon{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background: url(../images/error.png);
+    vertical-align: middle;
+}
+.success{
+    color: green;
+}
+.success_icon{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background: url(../images/success.png);
+    vertical-align: middle;
+}
+.safe em{
+    padding: 0 12px;
+    background-color: pink;
+    color: #fff;
+}
+.register_area ul li .weak{
+    background-color: #de1111;
+}
+.register_area ul li .mid{
+    background-color: #40b83f;
+}
+.register_area ul li  .strong{
+    background-color: #f79100;
+}
+.safe{
+    padding-left: 170px;
+}
+.agree {
+    padding-left: 95px;
+}
+.register_area ul li  .agree input{
+    vertical-align: middle;
+
+}
+.register_area ul li .but{
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #fff;
+    margin: 30px 0 0 70px;
+}
+.mod_copyright{
+    text-align: center;
+    padding-top: 20px;
+}
+.mod_copyright .links{
+    margin-bottom: 15px;
+}
